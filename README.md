@@ -2,10 +2,10 @@
 
 # 🚀 Dating & Food Delivery Application
 
-*A modern Kotlin-based application demonstrating clean architecture and modern Android development practices*
+*A modern Kotlin-based application demonstrating clean architecture and modern app development practices*
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.8.0-blue.svg)](https://kotlinlang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ 
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🔍 User profile management
 - 💑 Matchmaking algorithm
 - 📸 Profile picture handling
-- 📱 Responsive UI with modern design
+
 
 ### Food Delivery Module
 - 🍔 Menu browsing and search
@@ -36,59 +36,27 @@
 
 ### Architecture
 - **Clean Architecture** with clear separation of concerns
-- **MVVM (Model-View-ViewModel)** pattern
-- **Repository Pattern** for data management
-- **Dependency Injection** with Hilt/Koin
-- **Single Source of Truth** principle
 
-### Libraries & Tools
-- **Retrofit** for network calls
-- **Room** for local database
-- **Glide/Coil** for image loading
-- **Navigation Component** for in-app navigation
-- **ViewBinding/Compose** for UI
-- **WorkManager** for background tasks
+
+
 
 ## 🏗️ Project Structure
 
-```
-src/
-├── main/
-│   ├── kotlin/
-│   │   ├── dating_app/
-│   │   │   ├── model/       # Data models
-│   │   │   ├── viewmodel/   # ViewModels
-│   │   │   ├── repository/  # Data repositories
-│   │   │   ├── service/     # Business logic
-│   │   │   ├── ui/          # Activities & Fragments
-│   │   │   └── util/        # Utility classes
-│   │   └── food_delivery/   # Similar structure for food delivery
-│   └── res/                 # Resources
-└── test/                    # Unit tests
-```
+
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Android Studio Flamingo (2022.2.1) or later
 - JDK 17+
-- Android SDK 33
 
-### Setup
-1. Clone the repository
-2. Open the project in Android Studio
-3. Sync project with Gradle files
-4. Build and run the app
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
 
 <div align="center">
 
-Developed with ❤️ by **Amit Upadhyay**  
+Developed  by **Amit Upadhyay**  
 🔗 [GitHub Profile](https://github.com/A-U-7)
 
 </div>
