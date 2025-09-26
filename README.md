@@ -61,36 +61,4 @@ Developed  by **Amit Upadhyay**
 
 </div>
 
-<style>
-body {
-  background-color: #1e1e1e;
-  color: #e0e0e0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
-}
-
-a {
-  color: #4fc3f7;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-code {
-  background-color: #2d2d2d;
-  color: #ce9178;
-  padding: 2px 4px;
-  border-radius: 3px;
-}
-
-pre {
-  background-color: #2d2d2d;
-  padding: 16px;
-  border-radius: 6px;
-  overflow-x: auto;
-}
-</style>
+ 
